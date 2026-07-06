@@ -46,7 +46,7 @@
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Heart disease is one of the leading causes of death globally. Early prediction and identification can help reduce healthcare risks and improve patient outcomes.
 
@@ -70,7 +70,7 @@ The system helps:
 
 ---
 
-# 📌 Business Problem
+#  Business Problem
 
 Healthcare systems often face challenges in identifying heart disease risk at an early stage.
 
@@ -90,7 +90,7 @@ Key questions addressed:
 
 ---
 
-# 📌 Project Objectives
+#  Project Objectives
 
 ### Healthcare Objectives
 
@@ -103,7 +103,7 @@ Key questions addressed:
 
 ---
 
-# 📌 Dataset Information
+#  Dataset Information
 
 **Dataset Source:** UCI Heart Disease Dataset
 
@@ -139,7 +139,7 @@ Key questions addressed:
 
 ---
 
-# 📌 Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|----------|
@@ -155,7 +155,7 @@ Key questions addressed:
 
 ---
 
-# 📌 Project Workflow
+#  Project Workflow
 
 ```text
 Raw Dataset (.CSV)
@@ -188,7 +188,7 @@ Prediction Web Application
 
 ---
 
-# 📌 Data Preprocessing
+#  Data Preprocessing
 
 Data preprocessing was performed before model development.
 
@@ -204,7 +204,7 @@ Data preprocessing was performed before model development.
 
 ---
 
-# 📌 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
 Exploratory analysis was conducted to understand relationships between medical attributes.
 
@@ -225,7 +225,7 @@ Exploratory analysis was conducted to understand relationships between medical a
 
 ---
 
-# 📌 Model Development
+#  Model Development
 
 Machine learning workflow:
 
@@ -253,7 +253,7 @@ Performance Evaluation
 
 ---
 
-# 📌 Model Evaluation
+#  Model Evaluation
 
 Model performance was evaluated using classification metrics.
 
@@ -273,7 +273,7 @@ Model performance was evaluated using classification metrics.
 
 ---
 
-# 📌 Prediction System
+#  Prediction System
 
 Users provide health-related parameters and receive prediction results.
 
@@ -297,7 +297,7 @@ Heart Disease Risk Result
 
 ---
 
-# 📌 How To Run
+#  How To Run
 
 ### Clone Repository
 
@@ -325,7 +325,7 @@ streamlit run app.py
 
 ---
 
-# 📌 Repository Structure
+#  Repository Structure
 
 ```text
 Heart-Disease-Prediction-Model
@@ -342,7 +342,7 @@ Heart-Disease-Prediction-Model
 
 ---
 
-# 📌 Skills Demonstrated
+#  Skills Demonstrated
 
 ### Python
 
@@ -371,7 +371,7 @@ Heart-Disease-Prediction-Model
 
 ---
 
-# 📌 Future Enhancements
+#  Future Enhancements
 
 - Deploy application to cloud
 - Add more healthcare datasets
@@ -382,7 +382,7 @@ Heart-Disease-Prediction-Model
 
 ---
 
-# 📌 Business Impact
+#  Business Impact
 
 Potential healthcare benefits:
 
@@ -400,7 +400,7 @@ Potential healthcare benefits:
 
 ---
 
-# 📌 Conclusion
+#  Conclusion
 
 This project demonstrates how Machine Learning can support healthcare systems in identifying heart disease risk using patient medical attributes.
 
