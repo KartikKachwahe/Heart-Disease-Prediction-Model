@@ -95,7 +95,7 @@ Key questions addressed:
 ### Healthcare Objectives
 
 - Predict heart disease likelihood
-- Analyze patient health indicators
+- Analyze patients health indicators
 - Identify important predictive features
 - Train and evaluate ML models
 - Build a prediction system
@@ -213,7 +213,7 @@ Exploratory analysis was conducted to understand relationships between medical a
 - Distribution Analysis
 - Correlation Analysis
 - Feature Relationships
-- Disease Distribution
+- Disease Distributions
 - Health Indicator Analysis
 
 ### Key Observations
