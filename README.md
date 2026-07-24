@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-<b>An end-to-end Machine Learning project that predicts the likelihood of heart disease using patient medical attributes and supports healthcare decision-making through predictive analytics.</b>
+<b>An end-to-end Machine Learning project that predicts the likelihood of heart disease using patient medical attributes and support healthcare decision-making through predictive analytics.</b>
 </p>
 
 ---
