@@ -20,6 +20,10 @@
 <b>An end-to-end Machine Learning project that predicts the likelihood of heart disease using patient medical attributes and support healthcare decision-making through predictive analytics.</b>
 </p>
 
+
+**Live app 👉 [Open on Streamlit](heart-disease-prediction-model ∙ main ∙ app.py)**
+
+
 ---
 
 # Table of Contents
