@@ -21,7 +21,7 @@
 </p>
 
 
-**Live app 👉 [Open on Streamlit](heart-disease-prediction-model ∙ main ∙ app.py)**
+**Live app 👉 [Open on Streamlit](https://heart-disease-prediction-model-xmevu2ud8czkmysmup6uak.streamlit.app/)**
 
 
 ---
