@@ -48,7 +48,7 @@ if st.button("Predict"):
     # Fill in missing columns with 0s
     for col in expected_columns:
         if col not in input_df.columns:
-            input_df[col] = 0
+            input_df[col] = 0 
 
     # Reorder columns
     input_df = input_df[expected_columns]
