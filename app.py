@@ -7,7 +7,7 @@ import joblib
 model = joblib.load("Pickel files/KNN_heart_model.pkl")
 scaler = joblib.load("Pickel files/scaler_for_KNN_model.pkl")
 expected_columns = joblib.load("Pickel files/heart_columns.pkl")
-
+ 
 st.title("Heart Stroke Prediction by Kartik Kachwahe")
 st.markdown("Provide the following details to check your Heart Stroke risk:")
 
